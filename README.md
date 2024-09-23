@@ -8,3 +8,12 @@ This project simulates the transmission spectrum of a photonic crystal or gratin
 
 ## How to Run
 1. Install dependencies:
+pip install -r requirements.txt
+2. Run the simulation:
+python main.py
+
+## Dependencies
+- NumPy
+- SciPy
+- Matplotlib
+
